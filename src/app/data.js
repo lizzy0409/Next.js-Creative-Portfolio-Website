@@ -64,28 +64,28 @@ export const projectsData = [
     name: "StudyBuddy",
     description: "Collaborative learning platform",
     date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
+    demoLink: "https://studybuddy.com/",
   },
   {
     id: 8,
     name: "TechTalk",
     description: "Tech news aggregator",
     date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
+    demoLink: "http://techtalk.com/",
   },
   {
     id: 9,
     name: "FitTrack",
     description: "Fitness and workout tracker",
     date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
+    demoLink: "https://tryfittrack.com/",
   },
   {
     id: 10,
     name: "MindfulMoments",
     description: "Meditation and mindfulness app",
     date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
+    demoLink: "https://mindfullivingnetwork.com/",
   },
 ];
 
@@ -96,20 +96,14 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://www.github.com/lizzy0409",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/",
     icon: "linkedin",
-    newTab: true,
-  },
-  {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
     newTab: true,
   },
   {
